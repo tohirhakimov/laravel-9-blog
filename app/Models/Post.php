@@ -3,7 +3,6 @@
 namespace App\Models;
 
 use App\Concern\Likeable;
-use App\Scopes\PostedScope;
 use DateTimeInterface;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
